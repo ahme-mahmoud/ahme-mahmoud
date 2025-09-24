@@ -19,6 +19,17 @@ I focus on applying machine learning to cybersecurity by developing custom tools
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
 [![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash)
 
+## 🛡️ Networking & Cybersecurity Tools
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF7139?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-005F87?style=for-the-badge&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-003A78?style=for-the-badge&logo=metasploit&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-000000?style=for-the-badge&logo=aircrack-ng&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/John_the_Ripper-323330?style=for-the-badge&logo=hashcat&logoColor=white)
+
+
 ### 🧠 ML Libraries:
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
