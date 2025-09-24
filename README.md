@@ -32,6 +32,10 @@ Tools I use in penetration testing, network analysis, and ethical hacking:
 [![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
 [![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-000000?style=for-the-badge&logo=aircrack-ng&logoColor=white)](https://www.aircrack-ng.org/)
 [![John the Ripper](https://img.shields.io/badge/John_the_Ripper-323330?style=for-the-badge&logo=hashcat&logoColor=white)](https://www.openwall.com/john/)
+![Hydra](https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logo=gnometerminal&logoColor=white)
+![SQLmap](https://img.shields.io/badge/SQLmap-CC0000?style=for-the-badge&logo=databricks&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-5A5A5A?style=for-the-badge&logo=mozilla&logoColor=white)
+
 
 
 ## 🧠 ML Libraries
