@@ -35,6 +35,8 @@ Tools I use in penetration testing, network analysis, and ethical hacking:
 ![Hydra](https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logo=gnometerminal&logoColor=white)
 ![SQLmap](https://img.shields.io/badge/SQLmap-CC0000?style=for-the-badge&logo=databricks&logoColor=white)
 ![Nikto](https://img.shields.io/badge/Nikto-5A5A5A?style=for-the-badge&logo=mozilla&logoColor=white)
+![OSINT Framework](https://img.shields.io/badge/OSINT_Framework-008080?style=for-the-badge&logo=search&logoColor=white)
+
 
 
 
