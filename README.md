@@ -11,6 +11,7 @@ I am Ahmed Mahmoud, a Junior Penetration Tester and Cybersecurity student at Els
 ## 💻 Tech Stack
 
 Languages, scripting, and frameworks I use for building custom tools and automation scripts:
+
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
