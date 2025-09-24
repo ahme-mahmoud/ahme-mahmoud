@@ -34,7 +34,11 @@ Tools I use in penetration testing, network analysis, and ethical hacking:
 [![John the Ripper](https://img.shields.io/badge/John_the_Ripper-323330?style=for-the-badge&logo=hashcat&logoColor=white)](https://www.openwall.com/john/)
 
 
-## 🧠 ML & Data Science Libraries
+## 🧠 ML Libraries
+Used for building ML-based tools in cybersecurity, including:
+- Intrusion detection
+- Log analysis
+- Threat behavior modeling
 
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
