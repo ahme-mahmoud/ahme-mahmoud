@@ -1,7 +1,11 @@
+# 👨‍💻 Ahmed Mahmoud | Junior Penetration Tester & Cybersecurity Student
+
 ## 👋 About Me  
-I am Ahmed Mahmoud, a Junior Penetration Tester and Cybersecurity student at Elsewedy University of Technology (SUT).  
-I have hands-on experience in networking, programming, and offensive security, supported by self-studied certifications such as CCNA and eJPT.  
-I focus on applying machine learning to cybersecurity by developing custom tools for intrusion detection, threat analysis, and automation.  
+
+Hi, I'm **Ahmed Mahmoud**, a Junior Penetration Tester and Cybersecurity student at **Elsewedy University of Technology (SUT)**.  
+I have hands-on experience in **networking**, **programming**, and **offensive security**, supported by self-studied certifications such as **CCNA** and **eJPT**.  
+I'm passionate about applying **machine learning** in cybersecurity, and I enjoy building custom tools for **intrusion detection**, **threat analysis**, and **automation**.
+
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahme-mahmoud)
