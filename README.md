@@ -1,16 +1,20 @@
-# 👨‍💻 Ahmed Mahmoud | Junior Penetration Tester & Cybersecurity Student
+# 👋 Hi there, I'm Ahmed Mahmoud  
 
-## 👋 About Me  
+## 👨‍💻 About Me  
+I’m **Ahmed Mahmoud**, a **Junior Penetration Tester** and **Cybersecurity Student** at *Elsewedy University of Technology (SUT)*.  
+I have hands-on experience in **networking, programming, and offensive security**, and I’m passionate about **applying machine learning to cybersecurity** — developing custom tools for **intrusion detection, threat analysis, and automation**.
 
-I am Ahmed Mahmoud, a Junior Penetration Tester and Cybersecurity student at Elsewedy University of Technology (SUT). I have hands-on experience in networking, programming, and offensive security, I focus on applying machine learning to cybersecurity by developing custom tools for intrusion detection, threat analysis, and automation.
-## 🌐 Socials
+---
+
+## 🌐 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahme-mahmoud)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedmahmoudhus@gmail.com)
 
-## 💻 Tech Stack
+---
 
-Languages, scripting, and frameworks I use for building custom tools and automation scripts:
+## 💻 Tech Stack  
+Languages, scripting, and frameworks I use to build custom tools and automation scripts:
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
@@ -21,9 +25,10 @@ Languages, scripting, and frameworks I use for building custom tools and automat
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
 [![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash)
 
-## 🛡️ Networking & Cybersecurity Tools
+---
 
-Tools I use in penetration testing, network analysis, and ethical hacking:
+## 🛡️ Networking & Cybersecurity Tools  
+Tools I use for penetration testing, network analysis, and ethical hacking:
 
 [![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF7139?style=for-the-badge&logo=burpsuite&logoColor=white)](https://portswigger.net/burp)
 [![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
@@ -37,14 +42,13 @@ Tools I use in penetration testing, network analysis, and ethical hacking:
 ![Nikto](https://img.shields.io/badge/Nikto-5A5A5A?style=for-the-badge&logo=mozilla&logoColor=white)
 ![OSINT Framework](https://img.shields.io/badge/OSINT_Framework-008080?style=for-the-badge&logo=search&logoColor=white)
 
+---
 
-
-
-## 🧠 ML Libraries
-Used for building ML-based tools in cybersecurity, including:
-- Intrusion detection
-- Log analysis
-- Threat behavior modeling
+## 🧠 Machine Learning in Cybersecurity  
+I use machine learning to enhance cyber defense by:
+- Detecting intrusions & anomalies  
+- Analyzing logs and network traffic  
+- Modeling threat behaviors  
 
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
@@ -52,7 +56,10 @@ Used for building ML-based tools in cybersecurity, including:
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
 
-### 🧠 Algorithms I use:
+### ⚙️ Algorithms I Work With  
 ![Random Forest](https://img.shields.io/badge/Random_Forest-228B22?style=for-the-badge&logo=tree&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-EC6C00?style=for-the-badge&logo=lightning&logoColor=white)
 
+---
+
+💬 *“Turning cybersecurity challenges into intelligent, automated defenses.”*
