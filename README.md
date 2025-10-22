@@ -7,7 +7,7 @@ I have hands-on experience in **networking, programming, and offensive security*
 ---
 
 ## 🌐 Connect with Me  
-ىىىى
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahme-mahmoud)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=ahmedmahmoudhus@gmail.com)
 
