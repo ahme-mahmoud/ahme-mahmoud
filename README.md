@@ -22,7 +22,7 @@ I have hands-on experience in **networking, programming, and offensive security*
 
 <!-- 🌐 Social Icons -->
 <p align="center">
-  <a href="https://discord.gg/ahmedmahmoud_73_23474">
+  <a href="https://discord.gg/USERNAME">
     <img src="a73/discord.gif" width="45">
   </a>
   &nbsp;&nbsp;&nbsp;
@@ -34,10 +34,11 @@ I have hands-on experience in **networking, programming, and offensive security*
     <img src="a73/linkedin.gif" width="45">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:ahmedmahmoudhus@gmail.com">
-    <img src="a73/icons8-gmail-logo.gif" width="45">
+  <a href="https://medium.com/@ahme-mahmoud">
+    <img src="a73/icons8-gmail-Medium.png" width="45">
   </a>
 </p>
+
 
 ---
 
