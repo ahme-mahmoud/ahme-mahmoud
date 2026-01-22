@@ -120,4 +120,7 @@ I use machine learning to enhance cyber defense by:
 
 ---
 
+![snake gif](https://github.com/ahme-mahmoud/ahme-mahmoud/blob/output/github-contribution-grid-snake.svg)
+
+
 💬 *“Turning cybersecurity challenges into intelligent, automated defenses.”*
