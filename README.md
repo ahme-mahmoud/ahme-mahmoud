@@ -37,6 +37,14 @@ I have hands-on experience in **networking, programming, and offensive security*
   <a href="https://medium.com/@ahme-mahmoud">
     <img src="a73/Medium.png" width="45">
   </a>
+<a href="mailto:ahmedmahmoudhus@gmail.com">
+  <img src="https://img.icons8.com/color/48/gmail-new.png" width="45">
+</a>
+  <!-- Outlook -->
+<a href="mailto:ahmed230105687@sut.edu.eg">
+  <img src="https://img.icons8.com/color/48/microsoft-outlook-2019.png" width="45">
+</a>
+  
 </p>
 
 
