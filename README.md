@@ -49,6 +49,16 @@ I have hands-on experience in **networking, programming, and offensive security*
 </p>
 
 ---
+## 📊 GitHub Stats
+
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahme-mahmoud&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahme-mahmoud&layout=compact&theme=tokyonight)
+
+--- 
+
+
+
 
 ## 💻 Tech Stack  
 Languages, scripting, and frameworks I use to build custom tools and automation scripts:
