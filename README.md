@@ -40,14 +40,13 @@ I have hands-on experience in **networking, programming, and offensive security*
 
 <p align="center">
   <a href="mailto:ahmedmahmoudhus@gmail.com">
-    <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="45">
+    <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Email/3D/email_3d.png" width="45">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:ahmed230105687@sut.edu.eg">
-    <img src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif" width="45">
+    <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Inbox%20tray/3D/inbox_tray_3d.png" width="45">
   </a>
 </p>
-
 
 ---
 
