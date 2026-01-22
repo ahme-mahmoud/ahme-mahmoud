@@ -20,33 +20,35 @@
 I’m **Ahmed Mahmoud**, a **Junior Penetration Tester** and **Cybersecurity Student** at *Elsewedy University of Technology (SUT)*.  
 I have hands-on experience in **networking, programming, and offensive security**, and I’m passionate about **applying machine learning to cybersecurity** — developing custom tools for **intrusion detection, threat analysis, and automation**.
 
+
 <!-- 🌐 Social Icons -->
 <p align="center">
   <a href="https://discord.gg/ahmedmahmoud_73_23474">
     <img src="a73/discord.gif" width="45">
   </a>
   &nbsp;&nbsp;&nbsp;
+
   <a href="https://github.com/ahme-mahmoud">
     <img src="a73/gith.gif" width="45">
   </a>
   &nbsp;&nbsp;&nbsp;
+
   <a href="https://www.linkedin.com/in/ahme-mahmoud">
     <img src="a73/linkedin.gif" width="45">
   </a>
   &nbsp;&nbsp;&nbsp;
+
   <a href="https://medium.com/@ahme-mahmoud">
     <img src="a73/Medium.png" width="45">
   </a>
+  &nbsp;&nbsp;&nbsp;
 
-<p align="center">
+  <!-- 📧 Gmail (static, clean) -->
   <a href="mailto:ahmedmahmoudhus@gmail.com">
     <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Email/3D/email_3d.png" width="45">
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:ahmed230105687@sut.edu.eg">
-    <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Inbox%20tray/3D/inbox_tray_3d.png" width="45">
-  </a>
 </p>
+
 
 ---
 
