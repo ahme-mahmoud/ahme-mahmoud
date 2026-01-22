@@ -1,23 +1,46 @@
+<!-- 🔥 Banner GIF -->
+<p align="center">
+  <img src="a73/banner.gif" alt="Banner" width="100%">
+</p>
+
+<!-- 🔥 Fire image under banner -->
+<p align="center">
+  <img src="a73/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="110">
+</p>
+
+<!-- ✨ Typing SVG -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Web+%26+Network+Penetration+Tester;Cybersecurity+Student;Learning+ML+for+Security&center=true&width=800&height=45&color=00C2FF&size=22">
 </p>
 
-
-
+<!-- 👋 Name -->
 # 👋 Hi there, I'm Ahmed Mahmoud  
 
 ## 👨‍💻 About Me  
 I’m **Ahmed Mahmoud**, a **Junior Penetration Tester** and **Cybersecurity Student** at *Elsewedy University of Technology (SUT)*.  
 I have hands-on experience in **networking, programming, and offensive security**, and I’m passionate about **applying machine learning to cybersecurity** — developing custom tools for **intrusion detection, threat analysis, and automation**.
 
+<!-- 🌐 Social Icons -->
+<p align="center">
+  <a href="https://discord.gg/ahmedmahmoud_73_23474">
+    <img src="a73/discord.gif" width="45">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ahme-mahmoud">
+    <img src="a73/gith.gif" width="45">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ahme-mahmoud">
+    <img src="a73/linkedin.gif" width="45">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:ahmedmahmoudhus@gmail.com">
+    <img src="a73/icons8-gmail-logo.gif" width="45">
+  </a>
+</p>
+
 ---
 
-## 🌐 Connect with Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahme-mahmoud)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=ahmedmahmoudhus@gmail.com)
-
----
 
 ## 💻 Tech Stack  
 Languages, scripting, and frameworks I use to build custom tools and automation scripts:
