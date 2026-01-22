@@ -35,7 +35,7 @@ I have hands-on experience in **networking, programming, and offensive security*
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://medium.com/@ahme-mahmoud">
-    <img src="a73/icons8-gmail-Medium.png" width="45">
+    <img src="a73/Medium.png" width="45">
   </a>
 </p>
 
