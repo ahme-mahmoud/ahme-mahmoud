@@ -5,7 +5,7 @@
 
 <!-- 🔥 Fire image under banner -->
 <p align="center">
-  <img src="a73/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="200">
+  <img src="a73/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="140">
 </p>
 
 <!-- ✨ Typing SVG -->
@@ -13,13 +13,13 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Web+%26+Network+Penetration+Tester;Cybersecurity+Student;Learning+ML+for+Security&center=true&width=800&height=45&color=00C2FF&size=22">
 </p>
 
-<!-- 👋 Name -->
 # 👋 Hi there, I'm Ahmed Mahmoud  
 
 ## 👨‍💻 About Me  
 I’m **Ahmed Mahmoud**, a **Junior Penetration Tester** and **Cybersecurity Student** at *Elsewedy University of Technology (SUT)*.  
 I have hands-on experience in **networking, programming, and offensive security**, and I’m passionate about **applying machine learning to cybersecurity** — developing custom tools for **intrusion detection, threat analysis, and automation**.
 
+---
 
 <!-- 🌐 Social Icons -->
 <p align="center">
@@ -41,16 +41,14 @@ I have hands-on experience in **networking, programming, and offensive security*
   <a href="https://medium.com/@ahme-mahmoud">
     <img src="a73/Medium.png" width="45">
   </a>
+  &nbsp;&nbsp;&nbsp;
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahmedmahmoudhus@gmail.com">
-  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Email/3D/email_3d.png" width="45">
-</a>
-
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahmedmahmoudhus@gmail.com">
+    <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Email/3D/email_3d.png" width="45">
+  </a>
 </p>
 
-
 ---
-
 
 ## 💻 Tech Stack  
 Languages, scripting, and frameworks I use to build custom tools and automation scripts:
@@ -63,6 +61,13 @@ Languages, scripting, and frameworks I use to build custom tools and automation 
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
 [![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+[![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org)
+[![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)](https://httpd.apache.org)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 
 ---
 
@@ -89,15 +94,19 @@ I use machine learning to enhance cyber defense by:
 - Analyzing logs and network traffic  
 - Modeling threat behaviors  
 
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
+[![LightGBM](https://img.shields.io/badge/LightGBM-2C3E50?style=for-the-badge&logo=leaf&logoColor=white)](https://lightgbm.readthedocs.io)
 
-### ⚙️ Algorithms I Work With  
+### ⚙️ Algorithms I Work With
 ![Random Forest](https://img.shields.io/badge/Random_Forest-228B22?style=for-the-badge&logo=tree&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-EC6C00?style=for-the-badge&logo=lightning&logoColor=white)
+![Autoencoder](https://img.shields.io/badge/Autoencoder-blueviolet?style=for-the-badge)
 
 ---
 
