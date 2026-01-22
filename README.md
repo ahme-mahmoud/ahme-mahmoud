@@ -41,9 +41,8 @@ I have hands-on experience in **networking, programming, and offensive security*
   <a href="https://medium.com/@ahme-mahmoud">
     <img src="a73/Medium.png" width="45">
   </a>
-  &nbsp;&nbsp;&nbsp;
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahmedmahmoudhus@gmail.com">
-  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Email/3D/email_3d.png" width="45">
+  <img src="https://fonts.gstatic.com/s/i/materialicons/email/v14/24px.svg" width="45">
 </a>
 </p>
 
