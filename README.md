@@ -18,9 +18,7 @@
 ## 👨‍💻 About Me  
 I’m **Ahmed Mahmoud**, a **Junior Penetration Tester** and **Cybersecurity Student** at *Elsewedy University of Technology (SUT)*.  
 I have hands-on experience in **networking, programming, and offensive security**, and I’m passionate about **applying machine learning to cybersecurity** — developing custom tools for **intrusion detection, threat analysis, and automation**.
-
 ---
-
 <!-- 🌐 Social Icons -->
 <p align="center">
   <a href="https://discord.gg/ahmedmahmoud_73_23474">
@@ -41,9 +39,11 @@ I have hands-on experience in **networking, programming, and offensive security*
   <a href="https://medium.com/@ahme-mahmoud">
     <img src="a73/Medium.png" width="45">
   </a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahmedmahmoudhus@gmail.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="45">
-</a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahmedmahmoudhus@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="45">
+  </a>
 </p>
 
 ---
