@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Web+%26+Network+Penetration+Tester;Cybersecurity+Student;Learning+ML+for+Security&center=true&width=800&height=45&color=00C2FF&size=22">
+</p>
+
+
+
 # 👋 Hi there, I'm Ahmed Mahmoud  
 
 ## 👨‍💻 About Me  
