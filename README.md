@@ -16,10 +16,12 @@
 # 👋 Hi there, I'm Ahmed Mahmoud  
 
 ## 👨‍💻 About Me  
----
+
 I’m **Ahmed Mahmoud**, a **Junior Penetration Tester** and **Cybersecurity Student** at *Elsewedy University of Technology (SUT)*.  
 I have hands-on experience in **networking, programming, and offensive security**, and I’m passionate about **applying machine learning to cybersecurity** — developing custom tools for **intrusion detection, threat analysis, and automation**.
+
 ---
+
 <!-- 🌐 Social Icons -->
 
 <p align="center">
@@ -120,8 +122,7 @@ I use machine learning to enhance cyber defense by:
 
 ---
 
+💬 *“Turning cybersecurity challenges into intelligent, automated defenses.”*
+
 ![snake gif](https://raw.githubusercontent.com/ahme-mahmoud/ahme-mahmoud/output/github-snake.svg)
 
----
-
-💬 *“Turning cybersecurity challenges into intelligent, automated defenses.”*
