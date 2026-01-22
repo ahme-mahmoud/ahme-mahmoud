@@ -120,7 +120,7 @@ I use machine learning to enhance cyber defense by:
 
 ---
 
-![snake gif](https://raw.githubusercontent.com/ahme-mahmoud/ahme-mahmoud/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/ahme-mahmoud/ahme-mahmoud/output/github-snake.svg)
 
 ---
 
