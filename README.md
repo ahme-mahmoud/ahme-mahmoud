@@ -22,7 +22,7 @@ I have hands-on experience in **networking, programming, and offensive security*
 
 <!-- 🌐 Social Icons -->
 <p align="center">
-  <a href="https://discord.gg/USERNAME">
+  <a href="https://discord.gg/ahmedmahmoud_73_23474">
     <img src="a73/discord.gif" width="45">
   </a>
   &nbsp;&nbsp;&nbsp;
