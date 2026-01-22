@@ -42,7 +42,7 @@ I have hands-on experience in **networking, programming, and offensive security*
     <img src="a73/Medium.png" width="45">
   </a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahmedmahmoudhus@gmail.com">
-  <img src="https://fonts.gstatic.com/s/i/materialicons/email/v14/24px.svg" width="45">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="45">
 </a>
 </p>
 
