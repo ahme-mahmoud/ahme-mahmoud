@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs every day
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -13,12 +13,19 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate contribution snake (dark mode)
+      - name: Generate contribution snake (dark)
         uses: Platane/snk@v3
         with:
           github_user_name: ahme-mahmoud
+          color_snake: "#8A2BE2"
+          color_dots: |
+            #161b22
+            #0e4429
+            #006d32
+            #26a641
+            #39d353
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v3
