@@ -36,7 +36,7 @@ I have hands-on experience in **networking, programming, and offensive security*
   </a>
   &nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.linkedin.com/in/ahme-mahmoud">
+  <a href="https://www.linkedin.com/in/ahm-mahmoud">
     <img src="a73/linkedin.gif" width="45">
   </a>
   &nbsp;&nbsp;&nbsp;
