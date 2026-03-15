@@ -115,8 +115,6 @@ I use machine learning to enhance cyber defense by:
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
 [![LightGBM](https://img.shields.io/badge/LightGBM-2C3E50?style=for-the-badge&logo=leaf&logoColor=white)](https://lightgbm.readthedocs.io)
-
-### ⚙️ Algorithms I Work With
 ![Random Forest](https://img.shields.io/badge/Random_Forest-228B22?style=for-the-badge&logo=tree&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-EC6C00?style=for-the-badge&logo=lightning&logoColor=white)
 ![Autoencoder](https://img.shields.io/badge/Autoencoder-blueviolet?style=for-the-badge)
