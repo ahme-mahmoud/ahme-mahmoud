@@ -81,32 +81,6 @@ Languages, scripting, and frameworks I use to build custom tools and automation 
 [![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)](https://httpd.apache.org)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-
----
-
-## 🛡️ Networking & Cybersecurity Tools  
-Tools I use for penetration testing, network analysis, and ethical hacking:
-
-[![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF7139?style=for-the-badge&logo=burpsuite&logoColor=white)](https://portswigger.net/burp)
-[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
-[![Nmap](https://img.shields.io/badge/Nmap-005F87?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org/)
-[![Metasploit](https://img.shields.io/badge/Metasploit-003A78?style=for-the-badge&logo=metasploit&logoColor=white)](https://www.metasploit.com/)
-[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
-[![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-000000?style=for-the-badge&logo=aircrack-ng&logoColor=white)](https://www.aircrack-ng.org/)
-[![John the Ripper](https://img.shields.io/badge/John_the_Ripper-323330?style=for-the-badge&logo=hashcat&logoColor=white)](https://www.openwall.com/john/)
-![Hydra](https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logo=gnometerminal&logoColor=white)
-![SQLmap](https://img.shields.io/badge/SQLmap-CC0000?style=for-the-badge&logo=databricks&logoColor=white)
-![Nikto](https://img.shields.io/badge/Nikto-5A5A5A?style=for-the-badge&logo=mozilla&logoColor=white)
-![OSINT Framework](https://img.shields.io/badge/OSINT_Framework-008080?style=for-the-badge&logo=search&logoColor=white)
-
----
-
-## 🧠 Machine Learning in Cybersecurity  
-I use machine learning to enhance cyber defense by:
-- Detecting intrusions & anomalies  
-- Analyzing logs and network traffic  
-- Modeling threat behaviors  
-
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
@@ -118,8 +92,6 @@ I use machine learning to enhance cyber defense by:
 ![Random Forest](https://img.shields.io/badge/Random_Forest-228B22?style=for-the-badge&logo=tree&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-EC6C00?style=for-the-badge&logo=lightning&logoColor=white)
 ![Autoencoder](https://img.shields.io/badge/Autoencoder-blueviolet?style=for-the-badge)
-
----
 
 💬 *“Turning cybersecurity challenges into intelligent, automated defenses.”*
 
