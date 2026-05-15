@@ -20,10 +20,9 @@
 
 ## 👨‍💻 About Me
 
-Cybersecurity student with hands-on experience in penetration testing and vulnerability assessment.
-Focused on web and API security, with practical experience identifying vulnerabilities and analyzing security events.
-Building AI-driven solutions for intrusion and anomaly detection to enhance security analysis.
----
+Cybersecurity student with hands-on experience in **penetration testing** and **vulnerability assessment**.  
+Focused on **web and API security**, with practical experience identifying vulnerabilities and analyzing security events.  
+Building **AI-driven solutions** for intrusion and anomaly detection to enhance security analysis.
 
 ## 🔗 Connect With Me
 
