@@ -1,18 +1,29 @@
 # 👋 Hi there, I'm Ahmed Mahmoud
 
+<!-- 🔥 Banner GIF -->
+<p align="center">
+  <img src="a73/banner.gif" alt="Banner" width="100%">
+</p>
+
+<!-- 🔥 Fire image under banner -->
+<p align="center">
+  <img src="a73/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="140">
+</p>
+
 <!-- ✨ Typing SVG -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Web+Penetration+Tester;Offensive+Security+Enthusiast;Building+AI+for+Security&center=true&width=800&height=45&color=00C2FF&size=22">
 </p>
 
+
+
 ---
 
 ## 👨‍💻 About Me
 
-Cybersecurity student with hands-on experience in **penetration testing**, **vulnerability assessment**.  
-Focused on **web and API security**, with practical experience identifying vulnerabilities and analyzing security events.  
-Building **AI-driven solutions** for intrusion and anomaly detection to enhance security analysis.
-
+Cybersecurity student with hands-on experience in penetration testing and vulnerability assessment.
+Focused on web and API security, with practical experience identifying vulnerabilities and analyzing security events.
+Building AI-driven solutions for intrusion and anomaly detection to enhance security analysis.
 ---
 
 ## 🔗 Connect With Me
@@ -71,7 +82,7 @@ Languages, scripting, and frameworks I use to build custom tools and automation 
 [![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org)
 [![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)](https://httpd.apache.org)
 
-### 🤖 AI / ML & Data
+### 🤖 AI / ML
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
