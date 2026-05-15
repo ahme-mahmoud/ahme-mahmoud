@@ -54,9 +54,8 @@ Building AI-driven solutions for intrusion and anomaly detection to enhance secu
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahme-mahmoud&show_icons=true&theme=tokyonight" alt="Ahmed's GitHub Stats">
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahme-mahmoud&layout=compact&theme=tokyonight" alt="Top Languages">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahme-mahmoud&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahme-mahmoud&layout=compact&theme=tokyonight&langs_count=8"/>
 </p>
 
 ---
