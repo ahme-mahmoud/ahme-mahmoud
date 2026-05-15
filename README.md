@@ -1,5 +1,3 @@
-# 👋 Hi there, I'm Ahmed Mahmoud
-
 <!-- 🔥 Banner GIF -->
 <p align="center">
   <img src="a73/banner.gif" alt="Banner" width="100%">
@@ -15,6 +13,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Web+Penetration+Tester;Offensive+Security+Enthusiast;Building+AI+for+Security&center=true&width=800&height=45&color=00C2FF&size=22">
 </p>
 
+# 👋 Hi there, I'm Ahmed Mahmoud
 
 
 ---
